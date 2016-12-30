@@ -1,5 +1,5 @@
 # Sitecore.Support.106803
-If you add more than two rows in the `Multi-Line Text` field in `Experience Editor` and save the changes then only two rows are saved.<br>
+If you add more than two lines in the `Multi-Line Text` field in `Experience Editor` and save the changes then only two lines are saved.<br>
 This patch prevents from the described behavior.
 
 ## License  
